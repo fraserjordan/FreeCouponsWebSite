@@ -1,0 +1,72 @@
+﻿@model Coupons.Web.Models.UserModel
+
+    ViewBag.Title = "Register";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?libraries=places"></script>
+    <script type="text/javascript" src="/JAVASCRIPT/maps.js"></script>
+    <link rel="stylesheet" href="https://storage.googleapis.com/code.getmdl.io/1.0.0/material.indigo-pink.min.css">
+    <script src="https://storage.googleapis.com/code.getmdl.io/1.0.0/material.min.js"></script>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+    <link rel="stylesheet" type="text/css" src="Content/Site.css">
+
+<head>
+    <meta charset="utf-8" />
+    @Scripts.Render("~/bundles/modernizr")
+</head>
+
+<body>
+    @using (Html.BeginForm("Create", "User", FormMethod.Post, new { enctype = "multipart/form-data" }))
+    {
+
+        <fieldset style ="margin-left:250px;">
+            <ol>
+                <li>
+                    <img src="" style="border-radius: 50% 50% 50% 50%; width: 100px; height: 100px;" id="drift" />
+                    <label class="error-message"><label class="create-header">Upload a Display Picture</label>  @ViewBag.Message1</label>
+                </li>
+                <li>
+                    <input type="file" name="DisplayPicture" id="DisplayPicture" onchange="loadImageFileAsURL()" />
+                </li>
+                <li>
+                    <label class="error-message"><label class="create-header">User Name</label>  @ViewBag.Message2</label>
+                </li>
+                <li>
+                    @Html.TextBoxFor(m => m.UserName)
+                </li>
+                <li>
+                    <label class="error-message"><label class="create-header">Company Name</label>  @ViewBag.Message3</label>
+                </li>
+                <li>
+                    @Html.TextBoxFor(m => m.BusinessName)
+                </li>
+                <li>
+                    <label class="error-message"><label class="create-header">Email Address</label>  @ViewBag.Message4</label>
+                </li>
+                <li>
+                    @Html.TextBoxFor(m => m.Email)
+                </li>
+                <li>
+                    <label class="error-message"><label class="create-header">Physical Address</label>  @ViewBag.Message5</label>
+                </li>
+                <li>
+                    @Html.TextBoxFor(m => m.Address, new { id = "pac-input", style = "width: 500px;" })
+                </li>
+                <li>
+                    <label class="error-message"><label class="create-header">Password</label>  @ViewBag.Message6</label>
+                </li>
+                <li>
+                    @Html.PasswordFor(m => m.Password)
+                </li>
+                <li>
+                    <label class="error-message"><label class="create-header">Confirm Password</label>  @ViewBag.Message7</label>
+                </li>
+                <li>
+                    @Html.PasswordFor(m => m.ConfirmPassword)
+                </li>
+                <li>@ViewBag.Message</li>
+            </ol>
+
+            <button type="submit" class="mdl-button mdl-js-button mdl-button--raised mdl-button--accent mdl-js-ripple-effect">Register</button>
+        </fieldset>
+    }
+</body>

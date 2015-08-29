@@ -1,0 +1,31 @@
+﻿@model IEnumerable<FreeCoupons.Domain.User>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<div class ="main-body">
+@foreach (var item in Model) 
+{
+    <div class = "expense-cards">
+
+        @Session["FirstName"]
+
+		<img src = "Images/drift.jpg" class = "display-picture" style="float:left"/>
+        <div class ="coupon-text">
+        @Html.DisplayFor(modelItem => item.Id)
+        </div>
+        <div class ="coupon-text">
+        @Html.DisplayFor(modelItem => item.Name)
+        </div>
+        <div class ="coupon-text">
+        @Html.DisplayFor(modelItem => item.Password)
+        </div>
+        <div class ="coupon-text">
+        @Html.DisplayFor(modelItem => item.Email)
+        </div>
+    </div>
+}
+</div>

@@ -1,0 +1,22 @@
+﻿    ViewBag.Title = "Initial";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?libraries=places"></script>
+    <script type="text/javascript" src="/JAVASCRIPT/maps.js"></script>
+    <link rel="stylesheet" href="https://storage.googleapis.com/code.getmdl.io/1.0.0/material.indigo-pink.min.css">
+    <script src="https://storage.googleapis.com/code.getmdl.io/1.0.0/material.min.js"></script>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+    <link rel="stylesheet" type="text/css" src="Content/Site.css">
+
+<head> 
+    <meta charset="utf-8" />
+    @Scripts.Render("~/bundles/modernizr")
+</head>
+
+<body>
+<div class="initial-divs">
+    <section id="login" style="display:inline-block;width:65%;text-align:center;">
+        @ViewBag.Message
+        @Html.Partial("_LoginPartialLayout")
+    </section>
+</div>
+</body>

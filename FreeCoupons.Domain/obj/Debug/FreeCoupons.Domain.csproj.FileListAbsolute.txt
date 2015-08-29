@@ -1,0 +1,10 @@
+C:\Users\fjordan\Documents\Visual Studio 2012\Projects\FreeCoupons\FreeCoupons.Domain\bin\Debug\FreeCoupons.Domain.dll.config
+C:\Users\fjordan\Documents\Visual Studio 2012\Projects\FreeCoupons\FreeCoupons.Domain\bin\Debug\FreeCoupons.Domain.dll
+C:\Users\fjordan\Documents\Visual Studio 2012\Projects\FreeCoupons\FreeCoupons.Domain\bin\Debug\FreeCoupons.Domain.pdb
+C:\Users\fjordan\Documents\Visual Studio 2012\Projects\FreeCoupons\FreeCoupons.Domain\bin\Debug\EntityFramework.dll
+C:\Users\fjordan\Documents\Visual Studio 2012\Projects\FreeCoupons\FreeCoupons.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\fjordan\Documents\Visual Studio 2012\Projects\FreeCoupons\FreeCoupons.Domain\bin\Debug\EntityFramework.xml
+C:\Users\fjordan\Documents\Visual Studio 2012\Projects\FreeCoupons\FreeCoupons.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\fjordan\Documents\Visual Studio 2012\Projects\FreeCoupons\FreeCoupons.Domain\obj\Debug\FreeCoupons.Domain.csprojResolveAssemblyReference.cache
+C:\Users\fjordan\Documents\Visual Studio 2012\Projects\FreeCoupons\FreeCoupons.Domain\obj\Debug\FreeCoupons.Domain.dll
+C:\Users\fjordan\Documents\Visual Studio 2012\Projects\FreeCoupons\FreeCoupons.Domain\obj\Debug\FreeCoupons.Domain.pdb

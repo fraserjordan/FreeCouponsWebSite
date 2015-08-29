@@ -1,0 +1,203 @@
+C:\Users\fjordan\Documents\Visual Studio 2012\Projects\FreeCoupons\Coupons.Web\bin\Coupons.Web.dll
+C:\Users\fjordan\Documents\Visual Studio 2012\Projects\FreeCoupons\Coupons.Web\bin\Coupons.Web.pdb
+C:\Users\fjordan\Documents\Visual Studio 2012\Projects\FreeCoupons\Coupons.Web\bin\Antlr3.Runtime.dll
+C:\Users\fjordan\Documents\Visual Studio 2012\Projects\FreeCoupons\Coupons.Web\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\fjordan\Documents\Visual Studio 2012\Projects\FreeCoupons\Coupons.Web\bin\DotNetOpenAuth.Core.dll
+C:\Users\fjordan\Documents\Visual Studio 2012\Projects\FreeCoupons\Coupons.Web\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\fjordan\Documents\Visual Studio 2012\Projects\FreeCoupons\Coupons.Web\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\fjordan\Documents\Visual Studio 2012\Projects\FreeCoupons\Coupons.Web\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\fjordan\Documents\Visual Studio 2012\Projects\FreeCoupons\Coupons.Web\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\fjordan\Documents\Visual Studio 2012\Projects\FreeCoupons\Coupons.Web\bin\EntityFramework.dll
+C:\Users\fjordan\Documents\Visual Studio 2012\Projects\FreeCoupons\Coupons.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\fjordan\Documents\Visual Studio 2012\Projects\FreeCoupons\Coupons.Web\bin\Microsoft.Data.Edm.dll
+C:\Users\fjordan\Documents\Visual Studio 2012\Projects\FreeCoupons\Coupons.Web\bin\Microsoft.Data.OData.dll
+C:\Users\fjordan\Documents\Visual Studio 2012\Projects\FreeCoupons\Coupons.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\fjordan\Documents\Visual Studio 2012\Projects\FreeCoupons\Coupons.Web\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\fjordan\Documents\Visual Studio 2012\Projects\FreeCoupons\Coupons.Web\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\fjordan\Documents\Visual Studio 2012\Projects\FreeCoupons\Coupons.Web\bin\Newtonsoft.Json.dll
+C:\Users\fjordan\Documents\Visual Studio 2012\Projects\FreeCoupons\Coupons.Web\bin\StructureMap.dll
+C:\Users\fjordan\Documents\Visual Studio 2012\Projects\FreeCoupons\Coupons.Web\bin\System.Net.Http.Formatting.dll
+C:\Users\fjordan\Documents\Visual Studio 2012\Projects\FreeCoupons\Coupons.Web\bin\System.Spatial.dll
+C:\Users\fjordan\Documents\Visual Studio 2012\Projects\FreeCoupons\Coupons.Web\bin\System.Web.Helpers.dll
+C:\Users\fjordan\Documents\Visual Studio 2012\Projects\FreeCoupons\Coupons.Web\bin\System.Web.Http.dll
+C:\Users\fjordan\Documents\Visual Studio 2012\Projects\FreeCoupons\Coupons.Web\bin\System.Web.Http.OData.dll
+C:\Users\fjordan\Documents\Visual Studio 2012\Projects\FreeCoupons\Coupons.Web\bin\System.Web.Http.WebHost.dll
+C:\Users\fjordan\Documents\Visual Studio 2012\Projects\FreeCoupons\Coupons.Web\bin\System.Web.Mvc.dll
+C:\Users\fjordan\Documents\Visual Studio 2012\Projects\FreeCoupons\Coupons.Web\bin\System.Web.Optimization.dll
+C:\Users\fjordan\Documents\Visual Studio 2012\Projects\FreeCoupons\Coupons.Web\bin\System.Web.Razor.dll
+C:\Users\fjordan\Documents\Visual Studio 2012\Projects\FreeCoupons\Coupons.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\fjordan\Documents\Visual Studio 2012\Projects\FreeCoupons\Coupons.Web\bin\System.Web.WebPages.dll
+C:\Users\fjordan\Documents\Visual Studio 2012\Projects\FreeCoupons\Coupons.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\fjordan\Documents\Visual Studio 2012\Projects\FreeCoupons\Coupons.Web\bin\WebActivator.dll
+C:\Users\fjordan\Documents\Visual Studio 2012\Projects\FreeCoupons\Coupons.Web\bin\WebGrease.dll
+C:\Users\fjordan\Documents\Visual Studio 2012\Projects\FreeCoupons\Coupons.Web\bin\WebMatrix.Data.dll
+C:\Users\fjordan\Documents\Visual Studio 2012\Projects\FreeCoupons\Coupons.Web\bin\WebMatrix.WebData.dll
+C:\Users\fjordan\Documents\Visual Studio 2012\Projects\FreeCoupons\Coupons.Web\bin\EntityFramework.xml
+C:\Users\fjordan\Documents\Visual Studio 2012\Projects\FreeCoupons\Coupons.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\fjordan\Documents\Visual Studio 2012\Projects\FreeCoupons\Coupons.Web\bin\StructureMap.pdb
+C:\Users\fjordan\Documents\Visual Studio 2012\Projects\FreeCoupons\Coupons.Web\bin\StructureMap.xml
+C:\Users\fjordan\Documents\Visual Studio 2012\Projects\FreeCoupons\Coupons.Web\bin\Newtonsoft.Json.xml
+C:\Users\fjordan\Documents\Visual Studio 2012\Projects\FreeCoupons\Coupons.Web\bin\System.Net.Http.Formatting.xml
+C:\Users\fjordan\Documents\Visual Studio 2012\Projects\FreeCoupons\Coupons.Web\bin\System.Web.Helpers.xml
+C:\Users\fjordan\Documents\Visual Studio 2012\Projects\FreeCoupons\Coupons.Web\bin\System.Web.Http.xml
+C:\Users\fjordan\Documents\Visual Studio 2012\Projects\FreeCoupons\Coupons.Web\bin\System.Web.Http.WebHost.xml
+C:\Users\fjordan\Documents\Visual Studio 2012\Projects\FreeCoupons\Coupons.Web\bin\System.Web.Mvc.xml
+C:\Users\fjordan\Documents\Visual Studio 2012\Projects\FreeCoupons\Coupons.Web\bin\System.Web.Razor.xml
+C:\Users\fjordan\Documents\Visual Studio 2012\Projects\FreeCoupons\Coupons.Web\bin\System.Web.WebPages.xml
+C:\Users\fjordan\Documents\Visual Studio 2012\Projects\FreeCoupons\Coupons.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\fjordan\Documents\Visual Studio 2012\Projects\FreeCoupons\Coupons.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\fjordan\Documents\Visual Studio 2012\Projects\FreeCoupons\Coupons.Web\bin\WebMatrix.Data.xml
+C:\Users\fjordan\Documents\Visual Studio 2012\Projects\FreeCoupons\Coupons.Web\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\fjordan\Documents\Visual Studio 2012\Projects\FreeCoupons\Coupons.Web\bin\WebMatrix.WebData.xml
+C:\Users\fjordan\Documents\Visual Studio 2012\Projects\FreeCoupons\Coupons.Web\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\fjordan\Documents\Visual Studio 2012\Projects\FreeCoupons\Coupons.Web\bin\DotNetOpenAuth.Core.xml
+C:\Users\fjordan\Documents\Visual Studio 2012\Projects\FreeCoupons\Coupons.Web\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\fjordan\Documents\Visual Studio 2012\Projects\FreeCoupons\Coupons.Web\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\fjordan\Documents\Visual Studio 2012\Projects\FreeCoupons\Coupons.Web\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\fjordan\Documents\Visual Studio 2012\Projects\FreeCoupons\Coupons.Web\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\fjordan\Documents\Visual Studio 2012\Projects\FreeCoupons\Coupons.Web\bin\System.Web.Http.OData.xml
+C:\Users\fjordan\Documents\Visual Studio 2012\Projects\FreeCoupons\Coupons.Web\bin\Microsoft.Data.Edm.xml
+C:\Users\fjordan\Documents\Visual Studio 2012\Projects\FreeCoupons\Coupons.Web\bin\Microsoft.Data.OData.xml
+C:\Users\fjordan\Documents\Visual Studio 2012\Projects\FreeCoupons\Coupons.Web\bin\System.Spatial.xml
+C:\Users\fjordan\Documents\Visual Studio 2012\Projects\FreeCoupons\Coupons.Web\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\fjordan\Documents\Visual Studio 2012\Projects\FreeCoupons\Coupons.Web\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\fjordan\Documents\Visual Studio 2012\Projects\FreeCoupons\Coupons.Web\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\fjordan\Documents\Visual Studio 2012\Projects\FreeCoupons\Coupons.Web\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\fjordan\Documents\Visual Studio 2012\Projects\FreeCoupons\Coupons.Web\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\fjordan\Documents\Visual Studio 2012\Projects\FreeCoupons\Coupons.Web\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\fjordan\Documents\Visual Studio 2012\Projects\FreeCoupons\Coupons.Web\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\fjordan\Documents\Visual Studio 2012\Projects\FreeCoupons\Coupons.Web\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\fjordan\Documents\Visual Studio 2012\Projects\FreeCoupons\Coupons.Web\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\fjordan\Documents\Visual Studio 2012\Projects\FreeCoupons\Coupons.Web\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\fjordan\Documents\Visual Studio 2012\Projects\FreeCoupons\Coupons.Web\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\fjordan\Documents\Visual Studio 2012\Projects\FreeCoupons\Coupons.Web\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\fjordan\Documents\Visual Studio 2012\Projects\FreeCoupons\Coupons.Web\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\fjordan\Documents\Visual Studio 2012\Projects\FreeCoupons\Coupons.Web\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\fjordan\Documents\Visual Studio 2012\Projects\FreeCoupons\Coupons.Web\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\fjordan\Documents\Visual Studio 2012\Projects\FreeCoupons\Coupons.Web\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\fjordan\Documents\Visual Studio 2012\Projects\FreeCoupons\Coupons.Web\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\fjordan\Documents\Visual Studio 2012\Projects\FreeCoupons\Coupons.Web\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\fjordan\Documents\Visual Studio 2012\Projects\FreeCoupons\Coupons.Web\bin\de\System.Spatial.resources.dll
+C:\Users\fjordan\Documents\Visual Studio 2012\Projects\FreeCoupons\Coupons.Web\bin\es\System.Spatial.resources.dll
+C:\Users\fjordan\Documents\Visual Studio 2012\Projects\FreeCoupons\Coupons.Web\bin\fr\System.Spatial.resources.dll
+C:\Users\fjordan\Documents\Visual Studio 2012\Projects\FreeCoupons\Coupons.Web\bin\it\System.Spatial.resources.dll
+C:\Users\fjordan\Documents\Visual Studio 2012\Projects\FreeCoupons\Coupons.Web\bin\ja\System.Spatial.resources.dll
+C:\Users\fjordan\Documents\Visual Studio 2012\Projects\FreeCoupons\Coupons.Web\bin\ko\System.Spatial.resources.dll
+C:\Users\fjordan\Documents\Visual Studio 2012\Projects\FreeCoupons\Coupons.Web\bin\ru\System.Spatial.resources.dll
+C:\Users\fjordan\Documents\Visual Studio 2012\Projects\FreeCoupons\Coupons.Web\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\fjordan\Documents\Visual Studio 2012\Projects\FreeCoupons\Coupons.Web\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\fjordan\Documents\Visual Studio 2012\Projects\FreeCoupons\Coupons.Web\obj\Debug\Coupons.Web.Migrations.AddCouponsDB.resources
+C:\Users\fjordan\Documents\Visual Studio 2012\Projects\FreeCoupons\Coupons.Web\obj\Debug\Coupons.Web.Migrations.AddImagePathAttribute.resources
+C:\Users\fjordan\Documents\Visual Studio 2012\Projects\FreeCoupons\Coupons.Web\obj\Debug\Coupons.Web.Migrations.AddEmailAttribute.resources
+C:\Users\fjordan\Documents\Visual Studio 2012\Projects\FreeCoupons\Coupons.Web\obj\Debug\Coupons.Web.Migrations.AddEmailAttribute1.resources
+C:\Users\fjordan\Documents\Visual Studio 2012\Projects\FreeCoupons\Coupons.Web\obj\Debug\Coupons.Web.Migrations.AddPictureAttirubute.resources
+C:\Users\fjordan\Documents\Visual Studio 2012\Projects\FreeCoupons\Coupons.Web\obj\Debug\Coupons.Web.Migrations.AddPictureAttirubuteToCoupon.resources
+C:\Users\fjordan\Documents\Visual Studio 2012\Projects\FreeCoupons\Coupons.Web\obj\Debug\Coupons.Web.Migrations.AddPictureAttirubuteToCoupons.resources
+C:\Users\fjordan\Documents\Visual Studio 2012\Projects\FreeCoupons\Coupons.Web\obj\Debug\Coupons.Web.csproj.GenerateResource.Cache
+C:\Users\fjordan\Documents\Visual Studio 2012\Projects\FreeCoupons\Coupons.Web\obj\Debug\Coupons.Web.dll
+C:\Users\fjordan\Documents\Visual Studio 2012\Projects\FreeCoupons\Coupons.Web\obj\Debug\Coupons.Web.pdb
+C:\Users\fjordan\documents\visual studio 2012\Projects\FreeCoupons\Coupons.Web\obj\Debug\Coupons.Web.csprojResolveAssemblyReference.cache
+C:\Users\fjordan\documents\visual studio 2012\Projects\FreeCoupons\Coupons.Web\obj\Debug\Coupons.Web.Migrations.changeConfirmPasswordAttribute.resources
+C:\Users\fjordan\documents\visual studio 2012\Projects\FreeCoupons\Coupons.Web\obj\Debug\Coupons.Web.Migrations.changeRequiredFields.resources
+G:\FreeCoupons\Coupons.Web\bin\Coupons.Web.dll.config
+G:\FreeCoupons\Coupons.Web\bin\Coupons.Web.dll
+G:\FreeCoupons\Coupons.Web\bin\Coupons.Web.pdb
+G:\FreeCoupons\Coupons.Web\bin\Antlr3.Runtime.dll
+G:\FreeCoupons\Coupons.Web\bin\DotNetOpenAuth.AspNet.dll
+G:\FreeCoupons\Coupons.Web\bin\DotNetOpenAuth.Core.dll
+G:\FreeCoupons\Coupons.Web\bin\DotNetOpenAuth.OAuth.Consumer.dll
+G:\FreeCoupons\Coupons.Web\bin\DotNetOpenAuth.OAuth.dll
+G:\FreeCoupons\Coupons.Web\bin\DotNetOpenAuth.OpenId.dll
+G:\FreeCoupons\Coupons.Web\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+G:\FreeCoupons\Coupons.Web\bin\EntityFramework.dll
+G:\FreeCoupons\Coupons.Web\bin\EntityFramework.SqlServer.dll
+G:\FreeCoupons\Coupons.Web\bin\Microsoft.Data.Edm.dll
+G:\FreeCoupons\Coupons.Web\bin\Microsoft.Data.OData.dll
+G:\FreeCoupons\Coupons.Web\bin\Microsoft.Web.Infrastructure.dll
+G:\FreeCoupons\Coupons.Web\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+G:\FreeCoupons\Coupons.Web\bin\Microsoft.Web.WebPages.OAuth.dll
+G:\FreeCoupons\Coupons.Web\bin\Newtonsoft.Json.dll
+G:\FreeCoupons\Coupons.Web\bin\StructureMap.dll
+G:\FreeCoupons\Coupons.Web\bin\System.Net.Http.Formatting.dll
+G:\FreeCoupons\Coupons.Web\bin\System.Spatial.dll
+G:\FreeCoupons\Coupons.Web\bin\System.Web.Helpers.dll
+G:\FreeCoupons\Coupons.Web\bin\System.Web.Http.dll
+G:\FreeCoupons\Coupons.Web\bin\System.Web.Http.OData.dll
+G:\FreeCoupons\Coupons.Web\bin\System.Web.Http.WebHost.dll
+G:\FreeCoupons\Coupons.Web\bin\System.Web.Mvc.dll
+G:\FreeCoupons\Coupons.Web\bin\System.Web.Optimization.dll
+G:\FreeCoupons\Coupons.Web\bin\System.Web.Razor.dll
+G:\FreeCoupons\Coupons.Web\bin\System.Web.WebPages.Deployment.dll
+G:\FreeCoupons\Coupons.Web\bin\System.Web.WebPages.dll
+G:\FreeCoupons\Coupons.Web\bin\System.Web.WebPages.Razor.dll
+G:\FreeCoupons\Coupons.Web\bin\WebActivator.dll
+G:\FreeCoupons\Coupons.Web\bin\WebGrease.dll
+G:\FreeCoupons\Coupons.Web\bin\WebMatrix.Data.dll
+G:\FreeCoupons\Coupons.Web\bin\WebMatrix.WebData.dll
+G:\FreeCoupons\Coupons.Web\bin\EntityFramework.xml
+G:\FreeCoupons\Coupons.Web\bin\EntityFramework.SqlServer.xml
+G:\FreeCoupons\Coupons.Web\bin\StructureMap.pdb
+G:\FreeCoupons\Coupons.Web\bin\StructureMap.xml
+G:\FreeCoupons\Coupons.Web\bin\Newtonsoft.Json.xml
+G:\FreeCoupons\Coupons.Web\bin\System.Net.Http.Formatting.xml
+G:\FreeCoupons\Coupons.Web\bin\System.Web.Helpers.xml
+G:\FreeCoupons\Coupons.Web\bin\System.Web.Http.xml
+G:\FreeCoupons\Coupons.Web\bin\System.Web.Http.WebHost.xml
+G:\FreeCoupons\Coupons.Web\bin\System.Web.Mvc.xml
+G:\FreeCoupons\Coupons.Web\bin\System.Web.Razor.xml
+G:\FreeCoupons\Coupons.Web\bin\System.Web.WebPages.xml
+G:\FreeCoupons\Coupons.Web\bin\System.Web.WebPages.Deployment.xml
+G:\FreeCoupons\Coupons.Web\bin\System.Web.WebPages.Razor.xml
+G:\FreeCoupons\Coupons.Web\bin\WebMatrix.Data.xml
+G:\FreeCoupons\Coupons.Web\bin\Microsoft.Web.WebPages.OAuth.xml
+G:\FreeCoupons\Coupons.Web\bin\WebMatrix.WebData.xml
+G:\FreeCoupons\Coupons.Web\bin\DotNetOpenAuth.AspNet.xml
+G:\FreeCoupons\Coupons.Web\bin\DotNetOpenAuth.Core.xml
+G:\FreeCoupons\Coupons.Web\bin\DotNetOpenAuth.OAuth.Consumer.xml
+G:\FreeCoupons\Coupons.Web\bin\DotNetOpenAuth.OAuth.xml
+G:\FreeCoupons\Coupons.Web\bin\DotNetOpenAuth.OpenId.xml
+G:\FreeCoupons\Coupons.Web\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+G:\FreeCoupons\Coupons.Web\bin\System.Web.Http.OData.xml
+G:\FreeCoupons\Coupons.Web\bin\Microsoft.Data.Edm.xml
+G:\FreeCoupons\Coupons.Web\bin\Microsoft.Data.OData.xml
+G:\FreeCoupons\Coupons.Web\bin\System.Spatial.xml
+G:\FreeCoupons\Coupons.Web\bin\de\Microsoft.Data.Edm.resources.dll
+G:\FreeCoupons\Coupons.Web\bin\es\Microsoft.Data.Edm.resources.dll
+G:\FreeCoupons\Coupons.Web\bin\fr\Microsoft.Data.Edm.resources.dll
+G:\FreeCoupons\Coupons.Web\bin\it\Microsoft.Data.Edm.resources.dll
+G:\FreeCoupons\Coupons.Web\bin\ja\Microsoft.Data.Edm.resources.dll
+G:\FreeCoupons\Coupons.Web\bin\ko\Microsoft.Data.Edm.resources.dll
+G:\FreeCoupons\Coupons.Web\bin\ru\Microsoft.Data.Edm.resources.dll
+G:\FreeCoupons\Coupons.Web\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+G:\FreeCoupons\Coupons.Web\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+G:\FreeCoupons\Coupons.Web\bin\de\Microsoft.Data.OData.resources.dll
+G:\FreeCoupons\Coupons.Web\bin\es\Microsoft.Data.OData.resources.dll
+G:\FreeCoupons\Coupons.Web\bin\fr\Microsoft.Data.OData.resources.dll
+G:\FreeCoupons\Coupons.Web\bin\it\Microsoft.Data.OData.resources.dll
+G:\FreeCoupons\Coupons.Web\bin\ja\Microsoft.Data.OData.resources.dll
+G:\FreeCoupons\Coupons.Web\bin\ko\Microsoft.Data.OData.resources.dll
+G:\FreeCoupons\Coupons.Web\bin\ru\Microsoft.Data.OData.resources.dll
+G:\FreeCoupons\Coupons.Web\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+G:\FreeCoupons\Coupons.Web\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+G:\FreeCoupons\Coupons.Web\bin\de\System.Spatial.resources.dll
+G:\FreeCoupons\Coupons.Web\bin\es\System.Spatial.resources.dll
+G:\FreeCoupons\Coupons.Web\bin\fr\System.Spatial.resources.dll
+G:\FreeCoupons\Coupons.Web\bin\it\System.Spatial.resources.dll
+G:\FreeCoupons\Coupons.Web\bin\ja\System.Spatial.resources.dll
+G:\FreeCoupons\Coupons.Web\bin\ko\System.Spatial.resources.dll
+G:\FreeCoupons\Coupons.Web\bin\ru\System.Spatial.resources.dll
+G:\FreeCoupons\Coupons.Web\bin\zh-Hans\System.Spatial.resources.dll
+G:\FreeCoupons\Coupons.Web\bin\zh-Hant\System.Spatial.resources.dll
+G:\FreeCoupons\Coupons.Web\obj\Debug\Coupons.Web.csprojResolveAssemblyReference.cache
+G:\FreeCoupons\Coupons.Web\obj\Debug\Coupons.Web.Migrations.AddCouponsDB.resources
+G:\FreeCoupons\Coupons.Web\obj\Debug\Coupons.Web.Migrations.AddImagePathAttribute.resources
+G:\FreeCoupons\Coupons.Web\obj\Debug\Coupons.Web.Migrations.AddEmailAttribute.resources
+G:\FreeCoupons\Coupons.Web\obj\Debug\Coupons.Web.Migrations.AddEmailAttribute1.resources
+G:\FreeCoupons\Coupons.Web\obj\Debug\Coupons.Web.Migrations.AddPictureAttirubute.resources
+G:\FreeCoupons\Coupons.Web\obj\Debug\Coupons.Web.Migrations.AddPictureAttirubuteToCoupon.resources
+G:\FreeCoupons\Coupons.Web\obj\Debug\Coupons.Web.Migrations.AddPictureAttirubuteToCoupons.resources
+G:\FreeCoupons\Coupons.Web\obj\Debug\Coupons.Web.Migrations.changeConfirmPasswordAttribute.resources
+G:\FreeCoupons\Coupons.Web\obj\Debug\Coupons.Web.Migrations.changeRequiredFields.resources
+G:\FreeCoupons\Coupons.Web\obj\Debug\Coupons.Web.csproj.GenerateResource.Cache
+G:\FreeCoupons\Coupons.Web\obj\Debug\Coupons.Web.dll
+G:\FreeCoupons\Coupons.Web\obj\Debug\Coupons.Web.pdb
